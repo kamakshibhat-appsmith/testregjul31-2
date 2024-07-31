@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "66aa3caf485a965425506aef_b2bf0f02-9280-42d6-ab44-5d919425461f",
+  "id": "Page1__$momentFun1test$_momentFun",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_momentFun1test",
+  "rootModuleInstanceId": "Page1_momentFun1test",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$momentFun1test$_momentFun",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
