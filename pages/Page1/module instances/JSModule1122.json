@@ -11,11 +11,23 @@
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "cfywxfctgd": {},
-      "honzommznx": {}
+      "cfywxfctgd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "cfywxfctgd",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "honzommznx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[\"{{2}}\"]",
+        "id": "honzommznx",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
     },
     "name": "JSModule1122",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.13"
   }
 }

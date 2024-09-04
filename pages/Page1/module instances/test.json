@@ -6,15 +6,20 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [],
     "inputs": {
       "input1": "1"
     },
     "moduleInputs": {
-      "cplqccewhe": {}
+      "cplqccewhe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "cplqccewhe",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
     },
     "name": "test",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.13"
   }
 }

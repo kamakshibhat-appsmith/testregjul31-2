@@ -6,17 +6,28 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [],
     "inputs": {
       "input1": "1",
       "input2": "1"
     },
     "moduleInputs": {
-      "ihkgforfpj": {},
-      "rmblogjmcv": {}
+      "ihkgforfpj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "ihkgforfpj",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
+      "rmblogjmcv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "rmblogjmcv",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      }
     },
     "name": "sws",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.13"
   }
 }

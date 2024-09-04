@@ -10,10 +10,16 @@
       "input1": "{{Table1.pageSize}}"
     },
     "moduleInputs": {
-      "zqbdptrrqa": {}
+      "zqbdptrrqa": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "zqbdptrrqa",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
     },
     "name": "Query1",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.13"
   }
 }

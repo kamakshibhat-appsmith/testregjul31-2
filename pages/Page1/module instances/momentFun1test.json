@@ -11,11 +11,23 @@
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "omxrzjvdex": {},
-      "onqulsccto": {}
+      "omxrzjvdex": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "omxrzjvdex",
+        "label": "myFun11",
+        "propertyName": "inputs.myFun11"
+      },
+      "onqulsccto": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "onqulsccto",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      }
     },
     "name": "momentFun1test",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.13"
   }
 }
